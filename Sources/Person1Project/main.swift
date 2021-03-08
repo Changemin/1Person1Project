@@ -15,9 +15,9 @@ struct Person1Project: Website {
 
     // Update these properties to configure your website:
     var url = URL(string: "https://your-website-url.com")!
-    var name = "Person1Project"
-    var description = "A description of Person1Project"
-    var language: Language { .english }
+    var name = "Korean2LaTeX"
+    var description = "2021 공업일반 프로젝트"
+    var language: Language { .english}
     var imagePath: Path? { nil }
 }
 
