@@ -14,6 +14,6 @@ tags: 내돈내산
 디미고엔 꽤나 여러가지 실이 있기 때문에 이정도 필요하다고 판단했다. 
 (+ 오류도 있을 수 있고 몇번 실수가 있을 수도 있기 때문에)
 
-
+![구매 이미지](https://raw.githubusercontent.com/Changemin/1Person1Project/master/Content/imgs/2-bought-nfc-tag/1.png)
 
 
