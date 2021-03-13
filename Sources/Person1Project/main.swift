@@ -14,8 +14,8 @@ struct Person1Project: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://your-website-url.com")!
-    var name = "Korean2LaTeX"
+    var url = URL(string: "https://compassionate-hopper-4261c5.netlify.app")!
+    var name = "디미고인 iOS Place Tag Projcet"
     var description = "2021 공업일반 프로젝트"
     var language: Language { .english}
     var imagePath: Path? { nil }
